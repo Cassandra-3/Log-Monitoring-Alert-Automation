@@ -28,8 +28,8 @@ This project demonstrates how security teams or IT admins can proactively monito
 ```
 Log-Monitoring-Alert-Automation/
 ├── scripts/
-│   ├── log_monitor.py        # Python script to parse logs and write output to file/console
-│   └── log_monitor.sh        # Bash script to call the Python script
+│   ├── python_sc.py        # Python script to parse logs and write output to file/console
+│   └── Bash_sc.sh        # Bash script to call the Python script
 ├── README.md                 # Project overview and documentation
 ```
 
